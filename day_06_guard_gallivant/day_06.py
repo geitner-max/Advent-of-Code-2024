@@ -2,8 +2,6 @@
 __author__ = "Maximilian Geitner"
 __date__ = "06.12.2024"
 
-from Cython import returns
-
 UP = 0
 RIGHT = 1
 DOWN = 2
